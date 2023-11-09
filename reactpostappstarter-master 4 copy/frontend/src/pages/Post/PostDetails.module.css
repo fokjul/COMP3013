@@ -1,0 +1,15 @@
+
+.contentCard {
+    display: flex;
+    gap: 64px;
+}
+
+.buttonWrapper {
+    display: flex;
+    gap: 16px;
+    margin-top: 24px;
+}
+
+.buttonToggle {
+    display: none !important;
+}
